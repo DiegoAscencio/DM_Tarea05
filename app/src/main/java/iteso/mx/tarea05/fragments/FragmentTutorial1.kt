@@ -15,5 +15,4 @@ class FragmentTutorial1 : Fragment(){
         val view = inflater.inflate(R.layout.frament_fragmenttutorial1, container, false)
         return view
     }
-
 }
